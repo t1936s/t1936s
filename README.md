@@ -10,4 +10,4 @@
 
 🌟 Let's connect and collaborate! Feel free to explore my repositories, where you'll find my coding projects, experiments, and contributions. I'm always open to new ideas and collaborations, so don't hesitate to reach out.
 
-📫 You can reach me via email at [tsattar727@email.com] or connect with me on LinkedIn [[insert your LinkedIn profile URL](https://www.linkedin.com/in/talha-sattar-6b72a126a)]. Let's create something amazing together!
+📫 You can reach me via email at [tsattar727@email.com] or connect with me on LinkedIn (https://www.linkedin.com/in/talha-sattar-6b72a126a)]. Let's create something amazing together!
